@@ -6,7 +6,7 @@ a{color:inherit}
 header{position:sticky;top:0;z-index:4;background:#fffcfae8;backdrop-filter:blur(12px);border-bottom:1px solid #eee}
 nav{display:flex;align-items:center;gap:20px;padding:12px 0}
 .logo{display:inline-flex;align-items:center;flex-shrink:0;text-decoration:none}
-.brand-logo{display:block;width:48px;height:48px;object-fit:contain}
+.brand-logo{display:block;height:36px;width:auto;object-fit:contain}
 .right{margin-left:auto;display:flex;align-items:center;gap:15px}
 .right a{text-decoration:none;font-size:13px}
 select{padding:8px 12px;border:1px solid #ded3e9;border-radius:20px;background:white;font-size:13px;cursor:pointer}
